@@ -1,0 +1,25 @@
+@media screen and (min-width: 1200px) {
+  #navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    position:fixed;
+    top: 0px;
+  }
+
+  #main-doc{
+    margin-left: 20%;
+  }
+}
+
+.hide{
+  display: none;
+}
+
+/*#navbar{
+  display: flex;
+  flex-direction: ;
+  justify-content: space-between;
+  align-items: flex-start;
+}*/
